@@ -1,4 +1,4 @@
-* {
+ {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -71,3 +71,4 @@ main {
     grid-column: span 1;
   }
 }
+
